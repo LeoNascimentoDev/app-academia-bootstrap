@@ -1,0 +1,38 @@
+{
+    "exeA": {
+        "Cadeira Flexora": {
+            "id": "exe01",
+            "data": [
+                {
+                    "label": "01",
+                    "data": "03/05/25",
+                    "peso": "20kg",
+                    "repeticao": "3"
+                },
+                {
+                    "label": "02",
+                    "data": "10/06/25",
+                    "peso": "20kg",
+                    "repeticao": "3"
+                }
+            ]
+        },
+        "Supino Reto": {
+            "id": "exe01",
+            "data": [
+                {
+                    "label": "01",
+                    "data": "03/05/25",
+                    "peso": "20kg",
+                    "repeticao": "3"
+                },
+                {
+                    "label": "02",
+                    "data": "10/06/25",
+                    "peso": "20kg",
+                    "repeticao": "3"
+                }
+            ]
+        }
+    }
+}
